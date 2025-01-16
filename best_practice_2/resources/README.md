@@ -64,7 +64,7 @@ resources/
 
 ## データのダウンロードリンク
 加工後のデータセットは以下からダウンロード可能です。
-- **ダウンロードリンク**:[Githubリポジトリリンク](https://github.com/aistairc/Qunomon_tutorial_mnist)
+- **ダウンロードリンク**:[Githubリポジトリリンク](https://github.com/aistairc/Qunomon_tutorial_mnist/tree/main/best_practice_2/resources/MNIST)
 
 リンク先に、本ライセンス情報を明記していることを確認してください。
 
