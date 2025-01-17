@@ -25,8 +25,8 @@
     - 元データセット(60000枚の画像)から層化抽出法により、6000枚を選択しました。
 
 加工内容を再現するためのコードは以下のファイルに記載されています:
- `notebooks/sandbox.ipynb`
- `notebooks/sandbox2.ipynb`
+ - `notebooks/sandbox.ipynb`
+ - `notebooks/sandbox2.ipynb`
 
 ### ライセンス
 加工後のデータセットも、 **CC BY-SA 3.0** ライセンスの下で提供されます。
@@ -38,7 +38,7 @@
 
 ## データのダウンロードリンク
 加工後のデータセットは以下からダウンロード可能です。
-- **ダウンロードリンク**:[Githubリポジトリリンク](https://github.com/aistairc/Qunomon_tutorial_mnist)
+- **ダウンロードリンク**:[Githubリポジトリリンク](https://github.com/aistairc/Qunomon_tutorial_mnist/tree/main/best_practice_2/resources/MNIST)
 
 ---
 ## 使用例
